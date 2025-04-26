@@ -1,0 +1,13 @@
+.navSection ul{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    background-color: silver;
+    list-style-type: none;
+}
+
+.navSection li{
+    padding: 15px;
+    cursor: pointer;
+    padding-left: 0px;
+}
